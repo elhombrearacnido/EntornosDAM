@@ -37,6 +37,6 @@ if promedio_jamon > promedio_pollo and promedio_jamon > promedio_vegetal and pro
 elif promedio_pollo > promedio_jamon and promedio_pollo > promedio_vegetal and promedio_pollo > promedio_tortilla:
     print("El bocadillo de pollo es el mejor.")
 elif promedio_vegetal > promedio_jamon and promedio_vegetal > promedio_pollo and promedio_vegetal > promedio_tortilla:
-    print("El bocadillo vegetal es el mejor. Pero si eres vegano y lo quieres sin mayonesa, te jodes")
+    print("El bocadillo vegetal es el mejor. Pero si eres vegano y lo quieres sin mayonesa, te jodes.")
 else:
     print("El bocadillo de tortilla es el mejor.")
